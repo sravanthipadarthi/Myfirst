@@ -5,4 +5,6 @@ biscuits
 cornflakes
 branch1 commit
 Dry fruits
+Chocolates
+juice
 
